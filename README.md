@@ -41,6 +41,7 @@ Este examen evalúa tu capacidad para construir un backend básico usando Expres
 ## Entrega
 - Sube tu código a un **repositorio en GitHub** y despliéguelo en **vercel**.
 - Agregue el enlace del repositorio desplegado al README.
-
+Link: 
+https://parcial-ii-papo-gato-7bwj36zmq-samuels-projects-2be6c5d2.vercel.app
 
 ¡Buena suerte!
